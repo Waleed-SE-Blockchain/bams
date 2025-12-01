@@ -1,0 +1,382 @@
+{
+  "cdcf261b-9e7a-40f6-85bf-8424543c58da": {
+    "chainId": "cdcf261b-9e7a-40f6-85bf-8424543c58da",
+    "chainType": "class",
+    "className": "School of Computing - Class 1",
+    "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+    "parentHash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:08.913Z",
+      "updatedAt": "2025-12-01T02:36:08.913Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:08.913Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "cdcf261b-9e7a-40f6-85bf-8424543c58da",
+            "className": "School of Computing - Class 1",
+            "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+            "section": "Section 1",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:08.913Z"
+          }
+        ],
+        "prev_hash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+        "nonce": 73688,
+        "hash": "00002bc0b69c098e55851c9678b2d9a36613cf2a4fbd616a908a2418dbed445c",
+        "chainType": "class"
+      }
+    ]
+  },
+  "99cb0e17-1cad-4927-b1fd-e592d55cd21d": {
+    "chainId": "99cb0e17-1cad-4927-b1fd-e592d55cd21d",
+    "chainType": "class",
+    "className": "School of Computing - Class 2",
+    "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+    "parentHash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:11.462Z",
+      "updatedAt": "2025-12-01T02:36:11.462Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:11.462Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "99cb0e17-1cad-4927-b1fd-e592d55cd21d",
+            "className": "School of Computing - Class 2",
+            "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+            "section": "Section 2",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:11.462Z"
+          }
+        ],
+        "prev_hash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+        "nonce": 41737,
+        "hash": "000020929013cecbc94a0e607aa663f3ceaa3f02798238fdbcdecd2b904e32c6",
+        "chainType": "class"
+      }
+    ]
+  },
+  "88c3f207-35d8-484d-956c-19648e74688c": {
+    "chainId": "88c3f207-35d8-484d-956c-19648e74688c",
+    "chainType": "class",
+    "className": "School of Computing - Class 3",
+    "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+    "parentHash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:13.509Z",
+      "updatedAt": "2025-12-01T02:36:13.509Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:13.509Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "88c3f207-35d8-484d-956c-19648e74688c",
+            "className": "School of Computing - Class 3",
+            "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+            "section": "Section 3",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:13.509Z"
+          }
+        ],
+        "prev_hash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+        "nonce": 11110,
+        "hash": "000063bafc4a37b571c0a6fc6096e0a79cc8a8caaeba40b54dd537ab9554f4ff",
+        "chainType": "class"
+      }
+    ]
+  },
+  "8db14e58-ff08-4eef-96e2-8cbaf1496dbe": {
+    "chainId": "8db14e58-ff08-4eef-96e2-8cbaf1496dbe",
+    "chainType": "class",
+    "className": "School of Computing - Class 4",
+    "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+    "parentHash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:14.439Z",
+      "updatedAt": "2025-12-01T02:36:14.439Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:14.439Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "8db14e58-ff08-4eef-96e2-8cbaf1496dbe",
+            "className": "School of Computing - Class 4",
+            "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+            "section": "Section 4",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:14.439Z"
+          }
+        ],
+        "prev_hash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+        "nonce": 336803,
+        "hash": "0000680fc9846e3fd1ebecb52bd47f452a538a4f06a07e0528923670bc15f2d5",
+        "chainType": "class"
+      }
+    ]
+  },
+  "ca5a88b4-d1fd-415b-b186-309907888685": {
+    "chainId": "ca5a88b4-d1fd-415b-b186-309907888685",
+    "chainType": "class",
+    "className": "School of Computing - Class 5",
+    "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+    "parentHash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:18.082Z",
+      "updatedAt": "2025-12-01T02:36:18.082Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:18.082Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "ca5a88b4-d1fd-415b-b186-309907888685",
+            "className": "School of Computing - Class 5",
+            "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+            "section": "Section 5",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:18.082Z"
+          }
+        ],
+        "prev_hash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+        "nonce": 78247,
+        "hash": "00004179dede305a9acfdb8906a51f37af3412e909a0faf7b38d585211f56a5a",
+        "chainType": "class"
+      }
+    ]
+  },
+  "029d26ee-212e-46f4-a6ba-1a47e502f9bb": {
+    "chainId": "029d26ee-212e-46f4-a6ba-1a47e502f9bb",
+    "chainType": "class",
+    "className": "School of Software Engineering - Class 1",
+    "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+    "parentHash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:20.841Z",
+      "updatedAt": "2025-12-01T02:36:20.841Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:20.841Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "029d26ee-212e-46f4-a6ba-1a47e502f9bb",
+            "className": "School of Software Engineering - Class 1",
+            "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+            "section": "Section 1",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:20.841Z"
+          }
+        ],
+        "prev_hash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+        "nonce": 65567,
+        "hash": "0000b4198787c55ad16e5edf2f5d53a10e88889333dff37dec2cf7edb2b1f57d",
+        "chainType": "class"
+      }
+    ]
+  },
+  "5fd1a2f4-01bc-425e-be8e-670a641708f9": {
+    "chainId": "5fd1a2f4-01bc-425e-be8e-670a641708f9",
+    "chainType": "class",
+    "className": "School of Software Engineering - Class 2",
+    "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+    "parentHash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:23.743Z",
+      "updatedAt": "2025-12-01T02:36:23.743Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:23.743Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "5fd1a2f4-01bc-425e-be8e-670a641708f9",
+            "className": "School of Software Engineering - Class 2",
+            "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+            "section": "Section 2",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:23.743Z"
+          }
+        ],
+        "prev_hash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+        "nonce": 133452,
+        "hash": "00003da25fffa443094806134ff841915f00936e4025c1fd70242eb027825800",
+        "chainType": "class"
+      }
+    ]
+  },
+  "5311cc98-5383-4c7f-85d9-e12cfe6d1455": {
+    "chainId": "5311cc98-5383-4c7f-85d9-e12cfe6d1455",
+    "chainType": "class",
+    "className": "School of Software Engineering - Class 3",
+    "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+    "parentHash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:27.164Z",
+      "updatedAt": "2025-12-01T02:36:27.164Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:27.164Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "5311cc98-5383-4c7f-85d9-e12cfe6d1455",
+            "className": "School of Software Engineering - Class 3",
+            "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+            "section": "Section 3",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:27.164Z"
+          }
+        ],
+        "prev_hash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+        "nonce": 103330,
+        "hash": "0000346aa289bc5eeae412c58c7366b0c955cc6830856bd2df164bc93df6cc72",
+        "chainType": "class"
+      }
+    ]
+  },
+  "7b010313-f2e9-45d6-9e1f-ba74361882e1": {
+    "chainId": "7b010313-f2e9-45d6-9e1f-ba74361882e1",
+    "chainType": "class",
+    "className": "School of Software Engineering - Class 4",
+    "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+    "parentHash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:29.483Z",
+      "updatedAt": "2025-12-01T02:36:29.483Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:29.483Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "7b010313-f2e9-45d6-9e1f-ba74361882e1",
+            "className": "School of Software Engineering - Class 4",
+            "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+            "section": "Section 4",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:29.483Z"
+          }
+        ],
+        "prev_hash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+        "nonce": 3359,
+        "hash": "000070bb049ae9e576003d062bdf9aeb6820aeb5fb3a651d8e1a69c284503bf0",
+        "chainType": "class"
+      }
+    ]
+  },
+  "0edc2f7d-6ed8-417e-9436-db5baafcd988": {
+    "chainId": "0edc2f7d-6ed8-417e-9436-db5baafcd988",
+    "chainType": "class",
+    "className": "School of Software Engineering - Class 5",
+    "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+    "parentHash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:30.384Z",
+      "updatedAt": "2025-12-01T02:36:30.384Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "parentLinkageValid": true
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:30.384Z",
+        "transactions": [
+          {
+            "type": "CLASS_GENESIS",
+            "classId": "0edc2f7d-6ed8-417e-9436-db5baafcd988",
+            "className": "School of Software Engineering - Class 5",
+            "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+            "section": "Section 5",
+            "capacity": 35,
+            "createdAt": "2025-12-01T02:36:30.384Z"
+          }
+        ],
+        "prev_hash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+        "nonce": 99733,
+        "hash": "0000811f86da3cf216551870d963801fc4b2a2fb142e7ecdcd990a101070e11b",
+        "chainType": "class"
+      }
+    ]
+  }
+}

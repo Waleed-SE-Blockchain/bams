@@ -1,0 +1,68 @@
+{
+  "65c08a76-04d4-48e4-badf-3eaba2097008": {
+    "chainId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+    "chainType": "department",
+    "departmentName": "School of Computing",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:08.598Z",
+      "updatedAt": "2025-12-01T02:36:08.600Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": []
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:08.600Z",
+        "transactions": [
+          {
+            "type": "DEPARTMENT_GENESIS",
+            "departmentId": "65c08a76-04d4-48e4-badf-3eaba2097008",
+            "departmentName": "School of Computing",
+            "description": "School of Computing Department",
+            "createdAt": "2025-12-01T02:36:08.600Z"
+          }
+        ],
+        "prev_hash": "0",
+        "nonce": 53470,
+        "hash": "00000ac18e14c4b7ba4b835f7bcf230db1d369cc89cd9ce6a971f0147aa2cb5f",
+        "chainType": "department"
+      }
+    ]
+  },
+  "03e71761-d86c-4df4-9e3f-b8e1113be4f3": {
+    "chainId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+    "chainType": "department",
+    "departmentName": "School of Software Engineering",
+    "difficulty": 4,
+    "metadata": {
+      "createdAt": "2025-12-01T02:36:20.187Z",
+      "updatedAt": "2025-12-01T02:36:20.187Z"
+    },
+    "validation": {
+      "isValid": true,
+      "errors": []
+    },
+    "blocks": [
+      {
+        "index": 0,
+        "timestamp": "2025-12-01T02:36:20.187Z",
+        "transactions": [
+          {
+            "type": "DEPARTMENT_GENESIS",
+            "departmentId": "03e71761-d86c-4df4-9e3f-b8e1113be4f3",
+            "departmentName": "School of Software Engineering",
+            "description": "School of Software Engineering Department",
+            "createdAt": "2025-12-01T02:36:20.187Z"
+          }
+        ],
+        "prev_hash": "0",
+        "nonce": 121753,
+        "hash": "0000ed65f2b4b8477d47b3a7a51ba28b002b40b20994eaa1119b44b05b2bdeeb",
+        "chainType": "department"
+      }
+    ]
+  }
+}
